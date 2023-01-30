@@ -6,4 +6,4 @@
 3. Set the value on the first cell (navegacion_con_headers) in False if you do not want to see what the bot is doing.
 4. Run the code
 5. Autenticate with Whatsapp using the QR (a screenshot is also created)
-6. An "informe.txt" file will be created on wich every sent will be documented.
+6. An "informe.txt" file will be created on which every message will be documented.
